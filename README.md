@@ -23,7 +23,7 @@ This repository contains an implementation of the local environment graph sets (
 `results/` saves model checkpoints and other generated files, and provides model interpretation results.
 
 ## Requirements
-MolSets requires the following packages:
+LESets requires the following packages:
 - PyTorch >= 2.0
 - PyG (`torch_geometric`)
 - pymatgen (for dataset processing)
