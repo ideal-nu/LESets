@@ -1,4 +1,4 @@
-name: molsets
+name: lesets
 channels:
   - pyg
   - pytorch
