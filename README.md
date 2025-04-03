@@ -1,6 +1,6 @@
 # Local Environment Graph Sets
 
-This repository contains an implementation of the local environment graph sets (LESets) model for high-entropy alloy properties, associated with our paper [Do Graph Neural Networks Work for High Entropy Alloys?](https://arxiv.org/abs/2408.16337)
+This repository contains an implementation of the local environment graph sets (LESets) model for high-entropy alloy properties.
 
 ![Model architecture](model_architecture.webp)
 
@@ -36,15 +36,4 @@ However, there may be package compatibility issues that need manual corrections.
 
 
 ## Citation
-If you find this code useful, please consider citing the following paper:
-```
-@misc{zhang-lesets-24,
-      title={Do Graph Neural Networks Work for High Entropy Alloys?}, 
-      author={Hengrui Zhang and Ruishu Huang and Jie Chen and James M. Rondinelli and Wei Chen},
-      year={2024},
-      eprint={2408.16337},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2408.16337}
-}
-```
+If you find this code useful, please cite the following paper: [Graph representation of local environments for learning high-entropy alloy properties](https://doi.org/10.1088/2632-2153/adc0e1).
