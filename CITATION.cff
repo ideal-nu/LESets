@@ -1,0 +1,30 @@
+cff-version: "1.2.0"
+message: "If you use this work, please cite the following publication."
+authors:
+  - family-names: Zhang
+    given-names: Hengrui
+    orcid: "https://orcid.org/0000-0002-3183-1654"
+title: "LESets: Local environment graph sets"
+version: 1.0.0
+release-date: 2024-08-29
+url: "https://github.com/Henrium/LESets"
+preferred-citation:
+  type: article
+  title: "Graph representation of local environments for learning high-entropy alloy properties"
+  authors:
+    - family-names: Zhang
+      given-names: Hengrui
+    - family-names: Huang
+      given-names: Ruishu
+    - family-names: Chen
+      given-names: Jie
+    - family-names: Rondinelli
+      given-names: James M.
+    - family-names: Chen
+      given-names: Wei
+  journal: "Machine Learning: Science and Technology"
+  year: "2025"
+  volume: "6"
+  issue: "2"
+  pages: "025005"
+  doi: "10.1088/2632-2153/adc0e1"
