@@ -5,7 +5,7 @@ This repository contains an implementation of the local environment graph sets (
 ![Model architecture](model_architecture.webp)
 
 ## Descriptions
-`models.py` defines the LESEts model.
+`models.py` defines the LESets model.
 
 `main.py` is for LESets model training and evaluation.
 
